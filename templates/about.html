@@ -1,0 +1,126 @@
+{% extends "base.html" %}
+{% load static %}
+{% block title %}Nosotros{% endblock title%}
+{% block content %}
+<main id="main">
+
+  <!-- ======= Intro Single ======= -->
+  <section class="intro-single">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 col-lg-8">
+          <div class="title-single-box">
+            <h1 class="title-single">Nosotros</h1>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-4">
+          <nav aria-label="breadcrumb" class="breadcrumb-box d-flex justify-content-lg-end">
+            <ol class="breadcrumb">
+              <li class="breadcrumb-item">
+                <a href="/">Inicio</a>
+              </li>
+              <li class="breadcrumb-item active" aria-current="page">
+                Nosotros
+              </li>
+            </ol>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </section><!-- End Intro Single-->
+
+  <!-- ======= About Section ======= -->
+  <section class="section-about">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 position-relative">
+          <div class="about-img-box">
+            <img src="{% static 'assets/img/slide-about-1.jpg'%}" alt="" class="img-fluid">
+          </div>
+          <div class="sinse-box">
+            <h3 class="sinse-title">Quienes somos
+            </h3>
+            <p class="color-a">
+              Sauzes Mobiliario y su equipo de trabajo con más de 30 años de experiencia, Creamos proyectos
+              observando espacios y desarrollando ideas en conjunto con diseños creativos, funcionales, versátiles,
+              ques sean habitables y confortables.                
+            </p>
+          </div>
+          
+        </div>
+        <div class="col-md-12 section-t8 position-relative">
+          <div class="row">
+            <div class="col-md-6 col-lg-5">
+              <img src="{% static 'assets/img/about-2.jpg'%}" alt="" class="img-fluid">
+            </div>
+            <div class="col-md-6 col-lg-5 section-md-t3">
+              <div class="title-box-d">
+                <h3 class="title-d">
+                  Mision
+                </h3>
+              </div>
+              <p class="color-text-a">
+                Sauzes Mobiliario y su equipo de trabajo con más de 30 años de experiencia, Creamos proyectos
+                observando espacios y desarrollando ideas en conjunto con diseños creativos, funcionales, versátiles,
+                ques sean habitables y confortables.                
+              </p>
+              <div class="title-box-d">
+                <h3 class="title-d">
+                  Vision
+                </h3>
+              </div>
+              <p class="color-text-a">
+                Sauzes Mobiliario y su equipo de trabajo con más de 30 años de experiencia, Creamos proyectos
+                observando espacios y desarrollando ideas en conjunto con diseños creativos, funcionales, versátiles,
+                ques sean habitables y confortables.                
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+    <!-- ======= values Section ======= -->
+    <section class="section-services section-t8">
+      <div class="container">
+        <div class="row">
+          <div class="">
+            <div class="title-wrap d-flex justify-content-between">
+              <div class="title-box">
+                <h2 class="title-a">Valores</h2>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row values_home color-a">
+          <div class="col-md-3 values_home">
+            <div class="text-center ">
+              <img src="{% static '/assets/img/values/profesional.png'%}" class="values_img" alt="">
+              <p class="pvalues">Ética profesional</p>
+            </div>
+          </div>
+          <div class="col-md-3 values_home">
+            <div class="text-center ">
+              <img src="{% static '/assets/img/values/responsability.png'%}" class="values_img" alt="">
+              <p class="pvalues">Responsabilidad</p>
+            </div>
+          </div>
+          <div class="col-md-3 values_home">
+            <div class="text-center">
+              <img src="{% static '/assets/img/values/innovation.png'%}" class="values_img" alt="">
+              <p class="pvalues">Innovación</p>
+            </div>
+          </div>
+          <div class="col-md-3 values_home">
+            <div class="text-center">
+              <img src="{% static '/assets/img/values/team_worker.png'%}" class="values_img" alt="">
+              <p class="pvalues">Trabajo en equipo</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- End values Section -->
+
+</main><!-- End #main -->
+{% endblock %}

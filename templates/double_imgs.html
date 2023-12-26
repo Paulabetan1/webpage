@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+{% load static %}
+{% block title %}Servicios{% endblock title%}
+{% block content %}
+  
+  <main id="main">
+
+    <!-- ======= Intro Single ======= -->
+    <section class="intro-single">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-lg-8">
+            <div class="title-single-box h1general">
+              <h1 class="title-single">{{section}}</h1>
+            </div>
+          </div>
+          
+          <div class="col-md-12 col-lg-4">
+            <nav aria-label="breadcrumb" class="breadcrumb-box d-flex justify-content-lg-end">
+              <ol class="breadcrumb">
+                {% for k,y in page_obj.items%}
+                <li class="breadcrumb-item">
+                  <a href="{{url}}/{{k}}">{{k}}</a>
+                </li>
+                {%endfor%}
+              </ol>
+            </nav>
+          </div>
+      
+        </div>
+      </div>
+    </section><!-- End Intro Single-->
+
+    <!-- ======= Property Grid ======= -->
+    <section class="agents-grid grid">
+      <div class="container">
+        <div class="row">
+          {% for k,y in page_obj.items%}
+          {% if k == type %}
+          {% for product in y%}
+          <div class="col-md-4">
+            <div class="card-box-d">
+              <div class="card-img-d">
+                <img src="{% static '/assets/img/'%}{{product.img1}}" alt="" class="img-a img-fluid">
+              </div>
+              <div class="card-overlay card-overlay-hover">
+                <div class="card-header-d">
+                  <div class="card-title-d align-self-center title-d">
+                    <img src="{% static '/assets/img/'%}{{product.img2}}" alt="" class="img-a img-fluid">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>     
+          {% endfor %}
+          {%endif%}
+          {% endfor %}
+        </div>
+
+        <div class="row">
+          <div class="col-sm-12">
+            <nav class="pagination-a">
+              <ul class="pagination justify-content-end pagination">
+
+                {%if page_obj.has_previous%}
+                <li class="page-item">
+                  <a class="page-link" href="?page={{page_obj.previous_page_number}}">
+                    <span class="bi bi-chevron-left"></span>
+                  </a>
+                </li>
+                {%endif%}
+              
+                {%for i in page_obj.paginator.page_range%}
+                <li class="page-item next {% if i == page_obj.number %} active {%endif%}">
+                  <a class="page-link" href="?page={{i}}">{{i}}</a>
+                </li>
+                {%endfor%}
+                               
+                {%if page_obj.has_next%}
+                <li class="page-item next">
+                  <a class="page-link" href="?page={{page_obj.next_page_number}}">
+                    <span class="bi bi-chevron-right"></span>
+                  </a>
+                </li>
+                {%endif%}
+                </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </section><!-- End Property Grid Single-->
+  </main><!-- End #main -->
+
+{% endblock %}

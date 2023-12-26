@@ -1,0 +1,733 @@
+{
+  "products": {
+    "kitchens": [
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/kitchens/1.jpg",
+        "name": "Cocina",
+        "url": "/productos/cocinas"
+      },
+      {
+        "id": 3,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/kitchens/3.jpg",
+        "name": "Cocina",
+        "url": "/productos/cocinas"
+      },
+      {
+        "id": 4,
+        "desc": {
+          "Material": 340,
+          "medida": 50,
+          "color": "azul"
+        },
+        "img": "products/kitchens/4.jpg",
+        "name": "Cocina",
+        "url": "/productos/cocinas"
+      },
+      {
+        "id": 4,
+        "desc": {
+          "Material": 340,
+          "medida": 50,
+          "color": "azul"
+        },
+        "img": "products/kitchens/5.jpg",
+        "name": "Cocina",
+        "url": "/productos/cocinas"
+      },
+      {
+        "id": 4,
+        "desc": {
+          "Material": 340,
+          "medida": 50,
+          "color": "azul"
+        },
+        "img": "products/kitchens/7.jpg",
+        "name": "Cocina",
+        "url": "/productos/cocinas"
+      },
+      {
+        "id": 4,
+        "desc": {
+          "Material": 340,
+          "medida": 50,
+          "color": "azul"
+        },
+        "img": "products/kitchens/8.jpg",
+        "name": "Cocina",
+        "url": "/productos/cocinas"
+      },
+      {
+        "id": 4,
+        "desc": {
+          "Material": 340,
+          "medida": 50,
+          "color": "azul"
+        },
+        "img": "products/kitchens/10.jpg",
+        "name": "Cocina",
+        "url": "/productos/cocinas"
+      },
+      {
+        "id": 4,
+        "desc": {
+          "Material": 340,
+          "medida": 50,
+          "color": "azul"
+        },
+        "img": "products/kitchens/11.jpg",
+        "name": "Cocina",
+        "url": "/productos/cocinas"
+      },
+      {
+        "id": 4,
+        "desc": {
+          "Material": 340,
+          "medida": 50,
+          "color": "azul"
+        },
+        "img": "products/kitchens/12.jpg",
+        "name": "Cocina",
+        "url": "/productos/cocinas"
+      },
+      {
+        "id": 4,
+        "desc": {
+          "Material": 340,
+          "medida": 50,
+          "color": "azul"
+        },
+        "img": "products/kitchens/13.jpg",
+        "name": "Cocina",
+        "url": "/productos/cocinas"
+      }
+    ],
+    "doors": [
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/door/2.jpg",
+        "name": "Puertas",
+        "url": "/productos/puertas-para-exteriores-e-interiores"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/door/3.jpg",
+        "name": "Puertas",
+        "url": "/productos/puertas-para-exteriores-e-interiores"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/door/4.jpg",
+        "name": "Puertas",
+        "url": "/productos/puertas-para-exteriores-e-interiores"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/door/5.jpg",
+        "name": "Puertas",
+        "url": "/productos/puertas-para-exteriores-e-interiores"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/door/6.jpg",
+        "name": "Puertas",
+        "url": "/productos/puertas-para-exteriores-e-interiores"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/door/7.jpg",
+        "name": "Puertas",
+        "url": "/productos/puertas-para-exteriores-e-interiores"
+      }
+    ],
+    "closet": [
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/closet_more/1.jpg",
+        "name": "Closet",
+        "url": "/productos/vestieres-closet-y-muebles-de-lino"
+      },
+      {
+        "id": 2,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/closet_more/2.jpg",
+        "name": "Closet",
+        "url": "/productos/vestieres-closet-y-muebles-de-lino"
+      },
+      {
+        "id": 3,
+        "desc": {
+          "Material": 340,
+          "medida": 50,
+          "color": "azul"
+        },
+        "img": "products/closet_more/3.jpg",
+        "name": "Closet",
+        "url": "/productos/vestieres-closet-y-muebles-de-lino"
+      },
+      {
+        "id": 3,
+        "desc": {
+          "Material": 340,
+          "medida": 50,
+          "color": "azul"
+        },
+        "img": "products/closet_more/5.jpg",
+        "name": "Closet",
+        "url": "/productos/vestieres-closet-y-muebles-de-lino"
+      },
+      {
+        "id": 3,
+        "desc": {
+          "Material": 340,
+          "medida": 50,
+          "color": "azul"
+        },
+        "img": "products/closet_more/6.jpg",
+        "name": "Closet",
+        "url": "/productos/vestieres-closet-y-muebles-de-lino"
+      },
+      {
+        "id": 3,
+        "desc": {
+          "Material": 340,
+          "medida": 50,
+          "color": "azul"
+        },
+        "img": "products/closet_more/7.jpg",
+        "name": "Closet",
+        "url": "/productos/vestieres-closet-y-muebles-de-lino"
+      },
+      {
+        "id": 3,
+        "desc": {
+          "Material": 340,
+          "medida": 50,
+          "color": "azul"
+        },
+        "img": "products/closet_more/8.jpg",
+        "name": "Closet",
+        "url": "/productos/vestieres-closet-y-muebles-de-lino"
+      },
+      {
+        "id": 3,
+        "desc": {
+          "Material": 340,
+          "medida": 50,
+          "color": "azul"
+        },
+        "img": "products/closet_more/9.jpg",
+        "name": "Closet",
+        "url": "/productos/vestieres-closet-y-muebles-de-lino"
+      },
+      {
+        "id": 3,
+        "desc": {
+          "Material": 340,
+          "medida": 50,
+          "color": "azul"
+        },
+        "img": "products/closet_more/10.jpg",
+        "name": "Closet",
+        "url": "/productos/vestieres-closet-y-muebles-de-lino"
+      }
+    ],
+    "library": [
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/library/1.jpg",
+        "name": "Biblioteca",
+        "url": "/productos/bibliotecas-y-centro-de-entretenimiento"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/library/2.jpg",
+        "name": "Biblioteca",
+        "url": "/productos/bibliotecas-y-centro-de-entretenimiento"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/library/3.jpg",
+        "name": "Biblioteca",
+        "url": "/productos/bibliotecas-y-centro-de-entretenimiento"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/library/5.jpg",
+        "name": "Biblioteca",
+        "url": "/productos/bibliotecas-y-centro-de-entretenimiento"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/library/6.jpg",
+        "name": "Biblioteca",
+        "url": "/productos/bibliotecas-y-centro-de-entretenimiento"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/library/7.jpg",
+        "name": "Biblioteca",
+        "url": "/productos/bibliotecas-y-centro-de-entretenimiento"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/library/8.jpg",
+        "name": "Biblioteca",
+        "url": "/productos/bibliotecas-y-centro-de-entretenimiento"
+      }
+    ],
+    "bathroom": [
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/bathroom/1.jpg",
+        "name": "Bano",
+        "url": "/productos/muebles-para-banos"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/bathroom/2.jpg",
+        "name": "Bano",
+        "url": "/productos/muebles-para-banos"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/bathroom/3.jpg",
+        "name": "Bano",
+        "url": "/productos/muebles-para-banos"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/bathroom/4.jpg",
+        "name": "Bano",
+        "url": "/productos/muebles-para-banos"
+      }
+    ],
+    "stairs": [
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/stairs/1.jpg",
+        "name": "Escaleras",
+        "url": "/productos/huellas-para-escalera-en-madera-natural"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/stairs/2.jpg",
+        "name": "Escaleras",
+        "url": "/productos/huellas-para-escalera-en-madera-natural"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/stairs/3.jpg",
+        "name": "Escaleras",
+        "url": "/productos/huellas-para-escalera-en-madera-natural"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/stairs/4.jpg",
+        "name": "Escaleras",
+        "url": "/productos/huellas-para-escalera-en-madera-natural"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/stairs/5.jpg",
+        "name": "Escaleras",
+        "url": "/productos/huellas-para-escalera-en-madera-natural"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/stairs/6.jpg",
+        "name": "Escaleras",
+        "url": "/productos/huellas-para-escalera-en-madera-natural"
+      }
+    ],
+    "special_design": [
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/special_designs/2.jpg",
+        "name": "Diseno especiales",
+        "url": "/productos/diseno-especiales"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/special_designs/3.jpg",
+        "name": "Diseno especiales",
+        "url": "/productos/diseno-especiales"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/special_designs/4.jpg",
+        "name": "Diseno especiales",
+        "url": "/productos/diseno-especiales"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/special_designs/5.jpg",
+        "name": "Diseno especiales",
+        "url": "/productos/diseno-especiales"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/special_designs/6.jpg",
+        "name": "Diseno especiales",
+        "url": "/productos/diseno-especiales"
+      },
+      {
+        "id": 1,
+        "desc": {
+          "Material": 340
+        },
+        "img": "products/special_designs/7.jpg",
+        "name": "Diseno especiales",
+        "url": "/productos/diseno-especiales"
+      }
+    ]
+  },
+  "services": {
+    "desing_and_fabrication": {
+      "name": "Diseño y fabricacion de mobiliario - Carpinteria",
+      "url": "/servicios/diseño-y-fabricacion-de-mobiliario-carpinteria",
+      "img": "products/kitchens/1.jpg"
+    },
+    "tables_commercialization": {
+      "name": "Comercializacion y Suministro de mesones o ensimeras",
+      "url": "/servicios/comercializacion-y-suministro-de-mesones-o-ensimeras",
+      "img": "products/kitchens/1.jpg",
+      "imgs": {
+        "xtonee": [
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/bathroom/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/bathroom/1.jpg"
+          },
+          {
+            "img1": "products/bathroom/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          }
+        ],
+        "dekton": [
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          }
+        ],
+        "neolith": [
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          }
+        ],
+        "gramarston": [
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          }
+        ],
+        "quartzon": [
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          },
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          }
+        ],
+        "staron": [
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          }
+        ],
+        "corian": [
+          {
+            "img1": "products/kitchens/1.jpg",
+            "img2": "products/kitchens/1.jpg"
+          }
+        ]
+      }
+    },
+    "hardware_commercialization": {
+      "name": "Comercializacion y suministro de herraje para mobiliario",
+      "url": "/servicios/comercializacion-y-suministro-de-herraje-para-mobiliario",
+      "img": "products/kitchens/1.jpg",
+      "imgs": {
+        "hettich": {
+          "img1": "products/kitchens/1.jpg",
+          "img2": "products/kitchens/1.jpg",
+          "img3": "products/kitchens/1.jpg",
+          "img4": "products/kitchens/1.jpg"
+        },
+        "blum": {
+          "img1": "products/kitchens/1.jpg",
+          "img2": "products/kitchens/1.jpg",
+          "img3": "products/kitchens/1.jpg",
+          "img4": "products/kitchens/1.jpg"
+        },
+        "kessebohmer": {
+          "img1": "products/kitchens/1.jpg",
+          "img2": "products/kitchens/1.jpg",
+          "img3": "products/kitchens/1.jpg",
+          "img4": "products/kitchens/1.jpg"
+        },
+        "ita ferramenta": {
+          "img1": "products/kitchens/1.jpg",
+          "img2": "products/kitchens/1.jpg",
+          "img3": "products/kitchens/1.jpg",
+          "img4": "products/kitchens/1.jpg"
+        },
+        "vauth sagel": {
+          "img1": "products/kitchens/1.jpg",
+          "img2": "products/kitchens/1.jpg",
+          "img3": "products/kitchens/1.jpg",
+          "img4": "products/kitchens/1.jpg"
+        },
+        "indaux": {
+          "img1": "products/kitchens/1.jpg",
+          "img2": "products/kitchens/1.jpg",
+          "img3": "products/kitchens/1.jpg",
+          "img4": "products/kitchens/1.jpg"
+        },
+        "unihopper": {
+          "img1": "products/kitchens/1.jpg",
+          "img2": "products/kitchens/1.jpg",
+          "img3": "products/kitchens/1.jpg",
+          "img4": "products/kitchens/1.jpg"
+        }
+      }
+    },
+    "appliances": {
+      "name": "Electrodomesticos",
+      "url": "/servicios/electrodomesticos",
+      "img": "products/kitchens/1.jpg",
+      "imgs": {
+        "microondas": {
+          "img1": "products/kitchens/1.jpg",
+          "img2": "products/kitchens/1.jpg",
+          "img3": "products/kitchens/1.jpg",
+          "img4": "products/kitchens/1.jpg"
+        },
+        "lavavajillas": {
+          "img1": "products/kitchens/1.jpg",
+          "img2": "products/kitchens/1.jpg",
+          "img3": "products/kitchens/1.jpg",
+          "img4": "products/kitchens/1.jpg"
+        },
+        "neveras": {
+          "img1": "products/kitchens/1.jpg",
+          "img2": "products/kitchens/1.jpg",
+          "img3": "products/kitchens/1.jpg",
+          "img4": "products/kitchens/1.jpg"
+        },
+        "horno": {
+          "img1": "products/kitchens/1.jpg",
+          "img2": "products/kitchens/1.jpg",
+          "img3": "products/kitchens/1.jpg",
+          "img4": "products/kitchens/1.jpg"
+        },
+        "cuebierta": {
+          "img1": "products/kitchens/1.jpg",
+          "img2": "products/kitchens/1.jpg",
+          "img3": "products/kitchens/1.jpg",
+          "img4": "products/kitchens/1.jpg"
+        },
+        "cafetera": {
+          "img1": "products/kitchens/1.jpg",
+          "img2": "products/kitchens/1.jpg",
+          "img3": "products/kitchens/1.jpg",
+          "img4": "products/kitchens/1.jpg"
+        }
+      }
+    },
+    "civil_works": {
+      "name": "Asesoria en obras civiles",
+      "url": "/servicios/asesoria-en-obras-civiles",
+      "img": "products/kitchens/1.jpg"
+    }
+  }
+}
