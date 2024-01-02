@@ -488,84 +488,6 @@
       "url": "/servicios/comercializacion-y-suministro-de-mesones-o-ensimeras",
       "img": "products/kitchens/1.jpg",
       "imgs": {
-        "xtonee": [
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/bathroom/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/bathroom/1.jpg"
-          },
-          {
-            "img1": "products/bathroom/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          }
-        ],
-        "dekton": [
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          }
-        ],
-        "neolith": [
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          }
-        ],
         "gramarston": [
           {
             "img1": "products/kitchens/1.jpg",
@@ -619,12 +541,6 @@
           }
         ],
         "staron": [
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          }
-        ],
-        "corian": [
           {
             "img1": "products/kitchens/1.jpg",
             "img2": "products/kitchens/1.jpg"

@@ -43,27 +43,6 @@
               <div class="img-box-a">
                 <img src="{% static '/assets/img/'%}{{product.img}}" alt="" class="img-a img-fluid">
               </div>
-              <div class="card-overlay" style="padding-right: 8px">
-                <div class="card-overlay-a-content">
-                  <div class="card-header-a">
-                    <h2 class="card-title-a" >
-                        {{product.name}}
-                    </h2>
-                  </div>
-                  <div class="card-footer-a">
-                    <ul class="card-info d-flex justify-content-around">
-                      {% for key,value in product.desc.items%}
-                      <li>
-                        <h4 class="card-info-title">{{key}}</h4>
-                        <span>{{value}}
-                          <sup>2</sup>
-                        </span>
-                      </li>
-                      {% endfor %}
-                    </ul>
-                  </div>
-                </div>
-              </div>
             </div>
           </div>
           {% endfor %}
