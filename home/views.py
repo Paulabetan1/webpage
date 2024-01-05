@@ -49,10 +49,7 @@ class Services:
     
     def appliances(request,type):
         return render(request, 'services.html', {'page_obj': SERVICES.get('appliances').get('imgs'), 'section':'Electrodomesticos', 'type':type} )
-    
-    def civil_works(request):
-        return render(request, 'civil_works.html')      
-
+   
 def suppliers(request):
     return render(request,  'home.html')
 

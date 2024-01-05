@@ -490,28 +490,34 @@
       "imgs": {
         "gramarston": [
           {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
+            "name": "BAHIA SILVER",
+            "img1": "services/mesones_y_ensimeras/gramarston/bs1.png",
+            "img2": "services/mesones_y_ensimeras/gramarston/bs2.png"
           },
           {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
+            "name": "BELVEDERE BLACK",
+            "img1": "services/mesones_y_ensimeras/gramarston/vb1.png",
+            "img2": "services/mesones_y_ensimeras/gramarston/vb2.png"
           },
           {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
+            "name": "BOREAL UMBER",
+            "img1": "services/mesones_y_ensimeras/gramarston/bu1.png",
+            "img2": "services/mesones_y_ensimeras/gramarston/bu2.png"
           },
           {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
+            "name": "CARDOSO GRAY",
+            "img1": "services/mesones_y_ensimeras/gramarston/cg1.png",
+            "img2": "services/mesones_y_ensimeras/gramarston/cg2.png"
           },
           {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
+            "name": "DUCAL GOLD",
+            "img1": "services/mesones_y_ensimeras/gramarston/dg1.png",
+            "img2": "services/mesones_y_ensimeras/gramarston/dg2.png"
           },
           {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
+            "name": "CRUTONE PULPIS",
+            "img1": "services/mesones_y_ensimeras/gramarston/cp1.png",
+            "img2": "services/mesones_y_ensimeras/gramarston/cp2.png"
           }
         ],
         "quartzon": [
@@ -639,11 +645,6 @@
           "img4": "products/kitchens/1.jpg"
         }
       }
-    },
-    "civil_works": {
-      "name": "Asesoria en obras civiles",
-      "url": "/servicios/asesoria-en-obras-civiles",
-      "img": "products/kitchens/1.jpg"
     }
   }
 }

@@ -20,8 +20,7 @@ urlpatterns = [
                 path("diseño-y-fabricacion-de-mobiliario-carpinteria", views.Services.desing_and_fabrication, name='sr_desing_and_fabrication'),
                 path("comercializacion-y-suministro-de-mesones-o-ensimeras/<str:type>", views.Services.tables_commercialization, name='sr_tables_commercialization'),
                 path("comercializacion-y-suministro-de-herraje-para-mobiliario/<str:type>",views.Services.hardware_commercialization, name='sr_hardware_commercialization'),
-                path("electrodomesticos/<str:type>", views.Services.appliances, name='sr_appliances'),
-                path("asesoria-en-obras-civiles", views.Services.civil_works, name='sr_civil_works')
+                path("electrodomesticos/<str:type>", views.Services.appliances, name='sr_appliances')
             ]
         ),
     ),
