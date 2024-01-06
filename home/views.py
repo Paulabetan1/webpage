@@ -42,13 +42,13 @@ class Services:
         return render(request, 'products.html', {'page_obj': pagination(request,product_list,9), 'section':'Diseño y Fabricacion de mobiliario - Carpinteria'} )
 
     def tables_commercialization(request,type):
-        return render(request, 'double_imgs.html', {'page_obj': SERVICES.get('tables_commercialization').get('imgs'), 'section':'Comercializacion y Suministro de Mesones o Ensimeras', 'url': '/servicios/comercializacion-y-suministro-de-mesones-o-ensimeras', 'type':type} )
+        return render(request, 'double_imgs.html', {'page_obj': pagination(request,SERVICES.get('tables_commercialization').get('imgs'),6), 'section':'Comercializacion y Suministro de Mesones o Ensimeras', 'url': '/servicios/comercializacion-y-suministro-de-mesones-o-ensimeras', 'type':type} )
     
     def hardware_commercialization(request,type):
-        return render(request, 'services.html', {'page_obj': SERVICES.get('hardware_commercialization').get('imgs'), 'section':'Comercializacion y Suministro de Herraje para Mobiliario', 'type':type} )
+        return render(request, 'services.html', {'page_obj': pagination(request,SERVICES.get('hardware_commercialization').get('imgs'),6), 'section':'Comercializacion y Suministro de Herraje para Mobiliario', 'type':type} )
     
     def appliances(request,type):
-        return render(request, 'services.html', {'page_obj': SERVICES.get('appliances').get('imgs'), 'section':'Electrodomesticos', 'type':type} )
+        return render(request, 'services.html', {'page_obj': pagination(request,SERVICES.get('appliances').get('imgs'),6), 'section':'Electrodomesticos', 'type':type} )
    
 def suppliers(request):
     return render(request,  'home.html')

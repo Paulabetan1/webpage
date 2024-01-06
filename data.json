@@ -522,28 +522,33 @@
         ],
         "quartzon": [
           {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
-          },
-          {
-            "img1": "products/kitchens/1.jpg",
-            "img2": "products/kitchens/1.jpg"
+            "name": "BIANCO EXTRA",
+            "img1": "services/mesones_y_ensimeras/quartzon/be1.jpg",
+            "img2": "services/mesones_y_ensimeras/quartzon/be2.jpg"
+          }, {
+            "name": "GRAMMAR CARRARA PENCIL VEIN",
+            "img1": "services/mesones_y_ensimeras/quartzon/gcp1.jpg",
+            "img2": "services/mesones_y_ensimeras/quartzon/gcp2.jpg"
+          }, {
+            "name": "GRAMMAR GRIS CLASICO",
+            "img1": "services/mesones_y_ensimeras/quartzon/ggb1.jpg",
+            "img2": "services/mesones_y_ensimeras/quartzon/ggb2.jpg"
+          }, {
+            "name": "LONDON GREY BRILLANTE",
+            "img1": "services/mesones_y_ensimeras/quartzon/lgb1.jpg",
+            "img2": "services/mesones_y_ensimeras/quartzon/lgb2.jpg"
+          }, {
+            "name": "NEW BLANCO POLAR",
+            "img1": "services/mesones_y_ensimeras/quartzon/bs1.png",
+            "img2": "services/mesones_y_ensimeras/quartzon/bs2.png"
+          }, {
+            "name": "STATUARIO EXTRA",
+            "img1": "services/mesones_y_ensimeras/quartzon/se1.jpg",
+            "img2": "services/mesones_y_ensimeras/quartzon/se2.jpg"
+          }, {
+            "name": "TAUPE",
+            "img1": "services/mesones_y_ensimeras/quartzon/t1.jpg",
+            "img2": "services/mesones_y_ensimeras/quartzon/t2.jpg"
           }
         ],
         "staron": [
