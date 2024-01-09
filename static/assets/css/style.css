@@ -2297,3 +2297,10 @@ footer .credits {
 .h1general {
   margin-right: 8rem;
 }
+
+.swiper-wrapper>img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  object-position: center;
+}
