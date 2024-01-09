@@ -333,8 +333,8 @@
           "Material": 340
         },
         "img": "products/bathroom/1.jpg",
-        "name": "Bano",
-        "url": "/productos/muebles-para-banos"
+        "name": "Baño",
+        "url": "/productos/muebles-para-Baños"
       },
       {
         "id": 1,
@@ -342,8 +342,8 @@
           "Material": 340
         },
         "img": "products/bathroom/2.jpg",
-        "name": "Bano",
-        "url": "/productos/muebles-para-banos"
+        "name": "Baño",
+        "url": "/productos/muebles-para-Baños"
       },
       {
         "id": 1,
@@ -351,8 +351,8 @@
           "Material": 340
         },
         "img": "products/bathroom/3.jpg",
-        "name": "Bano",
-        "url": "/productos/muebles-para-banos"
+        "name": "Baño",
+        "url": "/productos/muebles-para-Baños"
       },
       {
         "id": 1,
@@ -360,8 +360,8 @@
           "Material": 340
         },
         "img": "products/bathroom/4.jpg",
-        "name": "Bano",
-        "url": "/productos/muebles-para-banos"
+        "name": "Baño",
+        "url": "/productos/muebles-para-Baños"
       }
     ],
     "stairs": [
