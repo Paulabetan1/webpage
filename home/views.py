@@ -19,22 +19,22 @@ class Product:
         return render(request, 'products.html', {'page_obj': pagination(request,PRODUCTS.get('kitchens'),6), 'section':'Cocinas'} )
 
     def doors(request):
-        return render(request, 'products.html', {'page_obj': pagination(request,PRODUCTS.get('doors'),3), 'section':'Puertas para exteriores e interiores'} )
+        return render(request, 'products.html', {'page_obj': pagination(request,PRODUCTS.get('doors'),6), 'section':'Puertas para exteriores e interiores'} )
     
     def closet(request):
-        return render(request, 'products.html', {'page_obj': pagination(request,PRODUCTS.get('closet'),3), 'section':'Vestieres Closet y Muebles de lino'} )
+        return render(request, 'products.html', {'page_obj': pagination(request,PRODUCTS.get('closet'),6), 'section':'Vestieres Closet y Muebles de lino'} )
     
     def library(request):
-        return render(request, 'products.html', {'page_obj': pagination(request,PRODUCTS.get('library'),3), 'section':'Bibliotecas y Centro de Entretenimiento','double_imgs':True} )
+        return render(request, 'products.html', {'page_obj': pagination(request,PRODUCTS.get('library'),6), 'section':'Bibliotecas y Centro de Entretenimiento','double_imgs':True} )
 
     def bathroom(request):
-        return render(request, 'products.html', {'page_obj': pagination(request,PRODUCTS.get('bathroom'),3), 'section':'Muebles de bano'} )
+        return render(request, 'products.html', {'page_obj': pagination(request,PRODUCTS.get('bathroom'),6), 'section':'Muebles de bano'} )
     
     def stairs(request):
-        return render(request, 'products.html', {'page_obj': pagination(request,PRODUCTS.get('stairs'),3), 'section':'Huellas para escalera en madera natural'} )
+        return render(request, 'products.html', {'page_obj': pagination(request,PRODUCTS.get('stairs'),6), 'section':'Huellas para escalera en madera natural'} )
     
     def special_design(request):
-        return render(request, 'products.html', {'page_obj': pagination(request,PRODUCTS.get('special_design'),3), 'section':'Diseño especiales'} )
+        return render(request, 'products.html', {'page_obj': pagination(request,PRODUCTS.get('special_design'),6), 'section':'Diseño especiales'} )
     
 class Services:
 

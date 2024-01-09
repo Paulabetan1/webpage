@@ -480,13 +480,13 @@
   "services": {
     "desing_and_fabrication": {
       "name": "Diseño y fabricacion de mobiliario - Carpinteria",
-      "url": "/servicios/diseño-y-fabricacion-de-mobiliario-carpinteria",
-      "img": "products/kitchens/1.jpg"
+      "url": "/servicios/diseno-y-fabricacion-de-mobiliario-carpinteria",
+      "img": "products/kitchens/3.jpg"
     },
     "tables_commercialization": {
       "name": "Comercializacion y Suministro de mesones o ensimeras",
-      "url": "/servicios/comercializacion-y-suministro-de-mesones-o-ensimeras",
-      "img": "services/mesones_y_ensimeras/gramarston/bu1.png",
+      "url": "/servicios/comercializacion-y-suministro-de-mesones-o-ensimeras/gramarston",
+      "img": "products/kitchens/4.jpg",
       "imgs": {
         "gramarston": [
           {
@@ -557,8 +557,8 @@
     },
     "hardware_commercialization": {
       "name": "Comercializacion y suministro de herraje para mobiliario",
-      "url": "/servicios/comercializacion-y-suministro-de-herraje-para-mobiliario",
-      "img": "others/herrajes.jpg",
+      "url": "/servicios/comercializacion-y-suministro-de-herraje-para-mobiliario/hettich",
+      "img": "products/kitchens/5.jpg",
       "imgs": {
         "hettich": {
           "img1": "products/kitchens/1.jpg",
