@@ -46,10 +46,7 @@ class Services:
     
     def hardware_commercialization(request,type):
         return render(request, 'services.html', {'page_obj': SERVICES.get('hardware_commercialization').get('imgs'), 'section':'Comercializacion y Suministro de Herraje para Mobiliario', 'type':type} )
-    
-    def appliances(request,type):
-        return render(request, 'services.html', {'page_obj': SERVICES.get('appliances').get('imgs'), 'section':'Electrodomesticos', 'type':type} )
-   
+       
 def suppliers(request):
     return render(request,  'home.html')
 
