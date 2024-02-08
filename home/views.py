@@ -4,12 +4,12 @@ from django.core.paginator import Paginator
 import json
 import random
 
-#Read data json
 f = open('data.json')
 data = json.load(f)
 
 PRODUCTS = data.get('products')
 SERVICES = data.get('services')
+
 product_list = []
 [product_list.extend(i) for i in PRODUCTS.values() ]
 
